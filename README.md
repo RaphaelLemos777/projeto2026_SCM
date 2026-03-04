@@ -1,2 +1,6 @@
-# projeto2026_SCM
-Projeto de Software 2026
+# Projeto 2026 - SCM
+
+Projeto desenvolvido para aula prática de Gerenciamento de Configuração.
+
+## Autor
+Raphael Lemos Ribeiro
